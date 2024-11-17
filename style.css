@@ -5,6 +5,8 @@ body {
 .logo img {
     width: 150px;
     height: 100px;
+    position: sticky;
+    top: 0;
 }
 
 .sign {
